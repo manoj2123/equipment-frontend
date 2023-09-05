@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.red-border{
+  border:solid rgba(200, 255, 0, 0.808) 2px;
+}
+.card-image{
+  transition: all ease 0.3s;
+}
+.product-card{
+  overflow: hidden;
+}
+.card-image:hover{
+  scale: calc(1.1);
+}
