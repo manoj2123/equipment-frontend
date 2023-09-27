@@ -87,11 +87,11 @@ export default function LogInPage(){
           <br/>
           <span>{state}</span>
           <br/>
-          <p>For admin login
+          <p>For admin login</p>
 
-        Email - user123@gmail.com
+          <p>Email - user123@gmail.com</p> 
 
-        password - password@123</p>
+          <p>password - password@123</p>
           <NavLink className='text-dark text-decoration-none' to='/'>&lt;---return to home page</NavLink>
           
         </div>

@@ -14,7 +14,7 @@ const ContactUs = () => {
             <p><MailFilled /> manojkumarg2123@gmail.com</p>
         </div>
         <a className='text-white' href='/'>Return to home page</a>
-        <footer className='px-3 py-5 text-white bg-warning'>copyrights @ Zumakazoo_rentals.pvt.ltd</footer>
+        <footer className='px-3 py-5 text-white bg-warning'>copyrights @ Zumakazoo_rental.pvt.ltd</footer>
     </div>
   )
 }
