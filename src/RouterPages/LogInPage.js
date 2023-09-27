@@ -87,7 +87,11 @@ export default function LogInPage(){
           <br/>
           <span>{state}</span>
           <br/>
-          <p>To find email and password --- use read me file attached with this in github.</p>
+          <p>For admin login
+
+        Email - user123@gmail.com
+
+        password - password@123</p>
           <NavLink className='text-dark text-decoration-none' to='/'>&lt;---return to home page</NavLink>
           
         </div>
