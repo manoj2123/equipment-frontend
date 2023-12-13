@@ -60,8 +60,8 @@ export default function BuyProduct() {
       validationSchema: fieldvalidationscheme,
       onSubmit: async (productInfo) => {
         var options = {
-          key:"rzp_test_DD48v5Wt9tpukT",
-          key_secret:"beNcHNDkjHxD3NwHnAwREOTD",
+          key:"rzp_test_ZkXECKu76zaFIz",
+          key_secret:"TqmGKkXyH2gYrDWF5eT0z9mN",
           amount:(+values.price * 100),
           currency:"INR",
           name:"Zumakazoo_rentals",
